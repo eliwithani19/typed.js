@@ -10,10 +10,9 @@ const defaults = {
    * @property {string} stringsElement ID of element containing string children
    */
   strings: [
-    'These are the default values...',
-    'You know what you should do?',
-    'Use your own!',
-    'Have a great day!',
+    'College Student',
+    'Diabetic',
+    'Gamer',
   ],
   stringsElement: null,
 
